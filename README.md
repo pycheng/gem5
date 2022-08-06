@@ -1,4 +1,6 @@
 # gem5
-yaya
 
-this is a test
+```bash
+cd $LLVM_TEST
+git clone https://github.com/llvm/llvm-test-suite.git
+```
