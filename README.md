@@ -1,6 +1,8 @@
 # gem5
 
+## Tool
+- to show the m5 dot config in m5out folder: install pydot and xdot
 ```bash
-cd $LLVM_TEST
-git clone https://github.com/llvm/llvm-test-suite.git
+pip install pydot
+apt install xdot
 ```
